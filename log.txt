@@ -1,0 +1,30 @@
+# assignment4-part1
+
+Start: Mon Feb 2, 2015 08:20 
+End: Mon Feb 2, 2015 09:13
+Tasks: Started to look at resources provided to get an idea
+of how to approach project. 
+
+Start: Tue Feb 3, 2015 19:40 
+End: Tue Feb 3, 2015 20:43
+Tasks: Started creating multtable.php.
+
+Start: Wed Feb 4, 2015 18:15 
+End:  Wed Feb 4, 2015 22:23
+Tasks: Made changes to multtable.php and continued looking at resources to help with this project.
+
+Start: Thur Feb 5, 2015 10:12
+End: Thur Feb 5, 2015 15:34
+Tasks: continued making changes to source files and looking at resources.
+
+Start: Fri Feb 6, 2015 11:33 
+End:  Fri Feb 6, 2015 19:35
+Tasks: Continued editing and testing source files.
+
+Start: Fri Feb 6, 2015 20:30
+End: Fri Feb 6, 2015 23:53
+Tasks: Continued to edit source files.
+
+Start: Sat Feb 7, 2015 10:00
+End: Sat Feb 7, 2015 15:55
+Tasks: Made changes to source files and log.txt file.
